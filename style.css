@@ -1,0 +1,33 @@
+.wrapper{
+    max-width: 600px;
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+    background-color: orange;
+    color: #fff;
+}
+span{
+    color: blue;
+}
+.form-input{
+    margin-left: 10px;
+}
+.form-input2{
+    margin-left: 33px;
+}
+.form-text{
+    margin-bottom: 30px;
+}
+.form-check{
+    margin: 20px 0 20px 0px;
+}
+.form-checkbox{
+    margin-left: 50px;
+}
+.form-btn{
+    margin-bottom: 20px;
+}
