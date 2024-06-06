@@ -5,7 +5,7 @@
     text-align: left;
     background-color: aquamarine;
 }
-h1{
+.form-heading{
     text-align: center;
     background-color: orange;
     color: #fff;
@@ -30,4 +30,48 @@ span{
 }
 .form-btn{
     margin-bottom: 20px;
+}
+
+
+/* CSS dđăng ký học viên */
+.wrapper1{
+    margin-top: 30px;
+    max-width: 600px;
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
+    background-color: aquamarine;
+}
+.form-heading1{
+    background-color: rgb(193, 255, 234);
+    color: rgb(86, 143, 228);
+}
+.form-group1{
+    display: flex;
+    align-items: flex-start;
+
+    gap: 20px;
+}
+.form-text1{
+    margin-bottom: 20px;
+}
+.form-input3{
+    margin-left: 10px;
+}
+.form-input4{
+    margin-left: 6px;
+}
+.form-input5{
+    margin-left: 13px;
+}
+.form-textarea{
+    margin-left: 24px;
+    width: 500px;
+    height: 100px;
+}
+.form-input6{
+    margin-left: 45px;
+}
+.form-email{
+    margin-left: 30px;
 }
